@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/BeamupAI/Exam/issues"
   },
-  "homepage": "https://github.com/BeamupAI/Exam#readme"
+  "homepage": "https://github.com/BeamupAI/Exam#readme",
+  "dependencies": {
+    "three": "^0.112.1",
+    "three-full": "^17.1.0"
+  }
 }

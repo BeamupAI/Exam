@@ -1,7 +1,21 @@
 body {
   background-color: #cce0ff;
   color: #000;
+  margin: 0;
+  overflow: hidden;
 }
 a {
   color: #080;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+#showHide {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  height: 100px;
 }
